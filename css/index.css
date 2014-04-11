@@ -7,7 +7,6 @@ html, body{
     border: 0 none;
     font-family: Arial,Helvetica,sans-serif;
     font-size: 12px;
-    line-height: 18px;
 }
 #wenwu-head{
     color: #000;
@@ -43,17 +42,10 @@ html, body{
     height: 100%;
     width: 100%;
     padding: 45px 0 40px 0;
-    position: relative;
 }
 #wenwu-title{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    width: 64em;
-    height: 36em;
-    margin-left: -32em;
-    margin-top: -2em;
     text-align: center;
+    margin-top: 30px;
     font-size: 6em;
 }
 #wenwu-content-body{
@@ -71,6 +63,7 @@ html, body{
     clear: both;
     margin: 0 auto;
     width: 100%;
+    z-index: 1000001;
 }
 #wenwu-foot-nav{
     padding: 0 30px 0 30px;

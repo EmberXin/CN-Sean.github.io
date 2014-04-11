@@ -4,15 +4,15 @@
     <list default="true" id="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyBlog.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397229246890" ignored="false" />
-    <file path="/home.html" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397242861293" ignored="false" />
-    <file path="/home.css" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397243064572" ignored="false" />
+    <file path="/home.html" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397243312531" ignored="false" />
+    <file path="/home.css" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397243623296" ignored="false" />
     <file path="/index.css" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397240340243" ignored="false" />
     <file path="/index.html" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397238706660" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397243598195" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="24" selection-start="827" selection-end="838" vertical-scroll-proportion="-13.133333">
+            <state line="26" column="94" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-16.633333">
               <folding />
             </state>
           </provider>
@@ -107,7 +107,7 @@
       <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="18" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.6510695">
+            <state line="47" column="17" selection-start="965" selection-end="965" vertical-scroll-proportion="0.421123">
               <folding />
             </state>
           </provider>
@@ -500,14 +500,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="24" selection-start="827" selection-end="838" vertical-scroll-proportion="-13.133333">
+        <state line="26" column="94" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-16.633333">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="18" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.6510695">
+        <state line="47" column="17" selection-start="965" selection-end="965" vertical-scroll-proportion="0.421123">
           <folding />
         </state>
       </provider>
