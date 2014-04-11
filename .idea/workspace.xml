@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-    </list>
+    <list default="true" id="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" name="Default" comment="" />
     <ignored path="MyBlog.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397229246890" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397229430238" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397229532477" ignored="false" />
     <file path="/home.html" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397229130756" ignored="false" />
     <file path="/home.css" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397229055326" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
