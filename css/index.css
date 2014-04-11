@@ -1,3 +1,87 @@
-#home{
-    background-color: red;
+html, body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    border: 0 none;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+#wenwu-head{
+    color: #000;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 45px;
+    width: 100%;
+    min-width: 975px;
+    margin: auto;
+    text-align: left;
+    background: rgba(78, 173, 241, 0.80);
+    box-shadow: none;
+    padding:0 30px;
+    z-index: 1000001;
+}
+#wenwu-head-logo{
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 45px;
+    cursor: pointer;
+    font-family: ARIAL,TAHOMA,HELVETICA,SANS-SERIF;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #FFFFFF;
+    text-decoration: none;
+}
+
+#wenwu-content{
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    padding: 45px 0 40px 0;
+    position: relative;
+}
+#wenwu-title{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 64em;
+    height: 36em;
+    margin-left: -32em;
+    margin-top: -2em;
+    text-align: center;
+    font-size: 6em;
+}
+#wenwu-content-body{
+    margin: 0 auto;
+    font-family: "Helvetica Neue", helvetica, arial, verdana, sans-serif;
+    color: #fff;
+    font-size: 1.2em;
+}
+#wenwu-foot{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-top: 1px solid #dadada;
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+}
+#wenwu-foot-nav{
+    padding: 0 30px 0 30px;
+    font-size: 100%;
+    color: #888888;
+    vertical-align: baseline;
+}
+#wenwu-foot-nav a{
+    text-decoration: none;
+    color: #0088cc;
+}
+#wenwu-foot-nav a:hover{
+    color: #005580;
 }
