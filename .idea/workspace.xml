@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/black/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/color/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/black/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/color/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/black/linkedIn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/color/linkedIn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/black/weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/color/weibo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/other/finedevelop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/other/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/other/github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/other/linkedIn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/other/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/other/weibo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -20,7 +17,7 @@
     <file path="/home.html" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397278703384" ignored="false" />
     <file path="/home.css" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397278755881" ignored="false" />
     <file path="/index.css" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397284964715" ignored="false" />
-    <file path="/index.html" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397281951289" ignored="false" />
+    <file path="/index.html" changelist="5932d7a9-53ea-4c46-bb14-5ef2bf3fde6e" time="1397286972462" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +81,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="21" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.45342466">
+            <state line="40" column="12" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.42465752">
               <folding />
             </state>
           </provider>
@@ -255,7 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="color" />
+              <option name="myItemId" value="other" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,7 +270,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="black" />
+              <option name="myItemId" value="color" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,6 +321,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/other" />
       <recent name="$PROJECT_DIR$/img/color" />
       <recent name="$PROJECT_DIR$/img/black" />
       <recent name="$PROJECT_DIR$/img" />
@@ -614,9 +626,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/other/flickr.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="21" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.45342466">
+        <state line="40" column="12" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.42465752">
           <folding />
         </state>
       </provider>
