@@ -20,7 +20,6 @@ img:hover{
     box-shadow: 0 0 10px #ffffff;
 }
 #wenwu-head{
-    color: #000;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -38,12 +37,12 @@ img:hover{
     z-index: 1000001;
 }
 #wenwu-head-logo{
-    color: #dfdfdf;
     font-size: 20px;
     line-height: 45px;
     cursor: pointer;
     font-family: ARIAL,TAHOMA,HELVETICA,SANS-SERIF;
     font-weight: bold;
+    color: #ffffff;
     text-shadow: 0px 0px 10px #FFFFFF;
     transform:rotate(10deg);
     -ms-transform:rotate(10deg); /* IE 9 */
@@ -68,6 +67,10 @@ img:hover{
     text-align: center;
     margin-top: 30px;
     font-size: 6em;
+    color: #3797ff;
+    text-shadow: 2px 2px 0px #ffffff;
+    font-weight: bold;
+    font-family: 'wenwu';
 }
 #wenwu-content-body{
     margin: 0 auto;
@@ -104,6 +107,9 @@ img:hover{
     -webkit-animation: cssAnimation 1s 1 ease-out;
     -moz-animation: cssAnimation 1s 1 ease-out;
     -o-animation: cssAnimation 1s 1 ease-out;
+    -moz-border-radius: 22.5px;
+    -webkit-border-radius: 22.5px;
+    border-radius:22.5px;
 }
 @-webkit-keyframes cssAnimation {
     from { -webkit-transform: rotate(0deg) scale(1) skew(1deg) translate(0px); }
@@ -117,3 +123,8 @@ img:hover{
     from { -o-transform: rotate(0deg) scale(1) skew(1deg) translate(0px); }
     to { -o-transform: rotate(360deg) scale(1) skew(-180deg) translate(0px); }
 }
+@font-face {
+    font-family: 'wenwu';
+    src: url('./Allura-Regular.ttf');
+}
+
